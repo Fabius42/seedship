@@ -5,6 +5,12 @@ NOTE: This holds ideas in unstructured format for later synthesis and refinement
 
 --
 
+- Look through earlier life game notes and try to synthesize stuff into a new doc (eg procedural rules about galaxy and astrobody formation, and also scales etc)
+- Think how to design a game mechanic MVP to test the core game loop. Probably I need a solid concept of how physical evolution works, and at least a rough outline of one order of life (or how to name those other than "orders"?)
+
+
+--
+
 - There can be good and bad actions that the ship can take. Maybe call them "blue" and "red" ones to avoid too simplistic moralism? These are all in relation to already pre-existing life (either uplifted by the player, or other independently evolved life forms that they discover).
 - Blue actions are helpful or neutral to life. Red actions are basically the gardening equivalent of "pruning" or "rooting out" life. This can be useful to make space in a biosphere for a different lineage that the player wants to introduce. Or they might simply do it for fun, in a sim city style way.
 - Red actions get unlocked over time as the player progresses and finds more technology in ruins etc. Some are very low-key / surgical (introducing some sort of virus-equivalent) with a chance of only killing that specific lineage, but also potential side effects. Others are all-out violence (orbital bombardment, gigantic laser strikes), the most powerful ones being terraforming actions that change the whole astro body, with potentially devastating effects on the whole biosphere.

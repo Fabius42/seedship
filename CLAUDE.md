@@ -33,3 +33,4 @@ Practically, this means:
 ## Writing style
 
 - Never use em dashes (—) or en dashes (–) in any written content. Use a regular hyphen (-) instead.
+- Don't hard-wrap text inside a paragraph or list item. Each paragraph and each list item should be written as a single line, with no manual line breaks in the middle of it - files are read with automatic soft-wrap enabled, so hard line breaks just fragment a paragraph across multiple lines in the source. Blank lines between paragraphs/list items are still used as normal.
