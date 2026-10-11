@@ -5,11 +5,6 @@ NOTE: This holds ideas in unstructured format for later synthesis and refinement
 
 --
 
-- Think how to design a game mechanic MVP to test the core game loop. Probably I need a solid concept of how physical evolution works, and at least a rough outline of one order of life (or how to name those other than "orders"?)
-
-
---
-
 - There can be good and bad actions that the ship can take. Maybe call them "blue" and "red" ones to avoid too simplistic moralism? These are all in relation to already pre-existing life (either uplifted by the player, or other independently evolved life forms that they discover).
 - Blue actions are helpful or neutral to life. Red actions are basically the gardening equivalent of "pruning" or "rooting out" life. This can be useful to make space in a biosphere for a different lineage that the player wants to introduce. Or they might simply do it for fun, in a sim city style way.
 - Red actions get unlocked over time as the player progresses and finds more technology in ruins etc. Some are very low-key / surgical (introducing some sort of virus-equivalent) with a chance of only killing that specific lineage, but also potential side effects. Others are all-out violence (orbital bombardment, gigantic laser strikes), the most powerful ones being terraforming actions that change the whole astro body, with potentially devastating effects on the whole biosphere.
@@ -17,14 +12,22 @@ NOTE: This holds ideas in unstructured format for later synthesis and refinement
 
 --
 
-Scope and details of the game-loop MVP
-2026-10-10-mvp-scope.md
+Improve MVP Scope Doc TODO
+==========================
 
-Published: 10.10.2026
+1)
 
-separated into sections: "Game mechanics" and "Implementation"
+Lets talk about the godot implementation details. Can you propose a workflow and architecture based on sota? keep in mind, its only an mvp so far. be specific about technical implementation and use technical terms. basically I want to talk system architecture here
 
---
+2)
 
-Next step: continue with the mvp scoping conversation, big topics to solve: trait catalog & godot implementation details
+Land Access is currently not a separate trait. I guess it is currently implied with the Air Breathing trait. But gravity works different on land. Brainstorm with me whether we should make that a separate trait
+
+3)
+
+We need to come up with naming rules for newly forked lineages. This is very important for the "flavor" of the game, and we just take this mechanic seriously. every trait should have a list of associated/related words, and then we choose two random traits for the naming, and put two associated words chosen from those traits somehow together (based on which rules)?
+
+4)
+
+We need to define the MVP planet's hand-picked starting conditions (how many biomes, their exact temperatures, mediums, and wells)
 
