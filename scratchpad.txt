@@ -12,22 +12,12 @@ NOTE: This holds ideas in unstructured format for later synthesis and refinement
 
 --
 
-Improve MVP Scope Doc TODO
-==========================
+TODO More MVP Decisions
+=======================
 
-1)
+- Land Access is currently not a separate trait. I guess it is currently implied with the Air Breathing trait. But gravity works different on land. Brainstorm with me whether we should make that a separate trait
 
-Lets talk about the godot implementation details. Can you propose a workflow and architecture based on sota? keep in mind, its only an mvp so far. be specific about technical implementation and use technical terms. basically I want to talk system architecture here
+- We need to come up with naming rules for newly forked lineages. This is very important for the "flavor" of the game, and we just take this mechanic seriously. every trait should have a list of associated/related words, and then we choose two random traits for the naming, and put two associated words chosen from those traits somehow together (based on which rules)?
 
-2)
-
-Land Access is currently not a separate trait. I guess it is currently implied with the Air Breathing trait. But gravity works different on land. Brainstorm with me whether we should make that a separate trait
-
-3)
-
-We need to come up with naming rules for newly forked lineages. This is very important for the "flavor" of the game, and we just take this mechanic seriously. every trait should have a list of associated/related words, and then we choose two random traits for the naming, and put two associated words chosen from those traits somehow together (based on which rules)?
-
-4)
-
-We need to define the MVP planet's hand-picked starting conditions (how many biomes, their exact temperatures, mediums, and wells)
+- We need to define the MVP planet's hand-picked starting conditions (how many biomes, their exact temperatures, mediums, and wells)
 
