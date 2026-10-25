@@ -10,14 +10,3 @@ NOTE: This holds ideas in unstructured format for later synthesis and refinement
 - Red actions get unlocked over time as the player progresses and finds more technology in ruins etc. Some are very low-key / surgical (introducing some sort of virus-equivalent) with a chance of only killing that specific lineage, but also potential side effects. Others are all-out violence (orbital bombardment, gigantic laser strikes), the most powerful ones being terraforming actions that change the whole astro body, with potentially devastating effects on the whole biosphere.
 - If they lineage is already advanced enough to attribute these activities (both blue and red) to the player, this influences their opinion of them, and also their overall cultural matrix / value system.
 
---
-
-TODO More MVP Decisions
-=======================
-
-- Create word lists for all current traits
-
-- Land Access is currently not a separate trait. I guess it is currently implied with the Air Breathing trait. But gravity works different on land. Brainstorm with me whether we should make that a separate trait
-
-- We need to define the MVP planet's hand-picked starting conditions (how many biomes, their exact temperatures, mediums, and wells)
-
